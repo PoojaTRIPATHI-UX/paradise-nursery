@@ -1,0 +1,9 @@
+paradise-nursery/
+  public/
+    index.html
+  src/
+    components/
+    data/
+    App.jsx
+    index.js
+  package.json
